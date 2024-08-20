@@ -3,7 +3,7 @@
 ## Overview
 
 
-**ruNIT** is a simple RUN-style game set in the environment of Noshirvani University. In this game, a student enters the university without a student ID card, and the campus guard starts chasing them. The student must navigate through obstacles using two options: a long jump and a short jump, to overcome the challenges and ultimately win the game.
+**ruNIT** is a simple RUN-style game set in the environment of Noshirvani University, built with C# and Unity. In this game, a student enters the university without a student ID card, and the campus guard starts chasing them. The student must navigate through obstacles using two options: a long jump and a short jump, to overcome the challenges and ultimately win the game.
 
 
 ## Features
